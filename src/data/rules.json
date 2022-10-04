@@ -1,0 +1,1525 @@
+{
+    "id": "U6dEk7bNAmcn9QpMa8yf8sbd",
+    "createdAt": 1547144477032,
+    "updatedAt": 1664461565945,
+    "rules": [
+        {
+            "match": "product.brand=Neutral",
+            "name": "Neutral Redirection",
+            "delegates": [
+                {
+                    "app": "VAUC4m7kx9KyNWb5neEhGayg",
+                    "project": "VdUCHG6nx9Ky7Cbp4BYYGaxe"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Novology",
+            "name": "Novology Redirections",
+            "delegates": [
+                {
+                    "app": "VdAxXsWrBtt9gthe3CPFfGcb",
+                    "project": "VdUbDPePPtEKxbeXKryMMCkn"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Lipton Ice Tea",
+            "name": "Lipton Ice Tea redirector",
+            "delegates": [
+                {
+                    "app": "VUxxMRtG58Ce2tgQbb2xkk3q",
+                    "project": "VTtnf3mgVXaeyywGCdhchm2q"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Melitta",
+            "name": "Melitta Redirections",
+            "delegates": [
+                {
+                    "app": "VATxQgkqHTrgxGxPbgCrQPqs",
+                    "project": "VdcxQgEs7WQYnBYM3K27arWh"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Skip&product.tags=multicountry",
+            "name": "Skip Multicountry",
+            "delegates": [
+                {
+                    "app": "VAbYdpN6KQhwS2EHVcasdfkd",
+                    "project": "U8EVQChCDBpfxUxMCf9QRqWe"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Arisco",
+            "name": "Arisco",
+            "delegates": [
+                {
+                    "app": "VdxDbk6tpQYaSkY4eyamdqnh",
+                    "project": "VAxgSkK7NWQEHehqmKdxMCcr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Lady's Choice",
+            "name": "Lady's Choice Redirects",
+            "delegates": [
+                {
+                    "app": "VyQQ39hVGr44yxc4HQBKFAtq",
+                    "project": "VcQtm9DE9WHsBpdqVD3yPbeb"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Dove&product.tags=multicountry",
+            "name": "Dove Multicountry Redirects",
+            "delegates": [
+                {
+                    "app": "Vc8nb4NqgMRPAESDR2dVqcTf",
+                    "project": "VwShN2NfWdBKhEgGcGhSKCer"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Mae Terra",
+            "name": "Mae Terra Redirection",
+            "delegates": [
+                {
+                    "app": "VcPE8XmmBSn5xRda9p9kRKet",
+                    "project": "VcPh8gCsBbHpxwUwtK9kamVf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Walls&product.tags=multicountry",
+            "name": "Walls Multicountry Redirection",
+            "delegates": [
+                {
+                    "app": "VysUmeXeDc2ngCaakHsb4kRh",
+                    "project": "VwmxheTRfbEDwSxkywNaFd7s"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Unox",
+            "name": "Unox Redirection",
+            "delegates": [
+                {
+                    "app": "VcNH6yfHGsDGkpYyDYxbMr2g",
+                    "project": "VcrnqcAtQ8bhKmT5bcDC9gdg"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Brilhante",
+            "name": "Brilhante Redirection",
+            "delegates": [
+                {
+                    "app": "VyNYKBCcpsCNgsxVGgbQWrfn",
+                    "project": "VcNE5eda5m22eXAm2mBrBsDt"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Fofo",
+            "name": "Fofo Redirections",
+            "delegates": [
+                {
+                    "app": "VcND7rkbwssBaddgVEwDba8c",
+                    "project": "Vy7gNqKCbAfr7EhN3EPVNgtr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Heartbrand&product.tags=multicountry",
+            "name": "Heartbrand Multicountry",
+            "delegates": [
+                {
+                    "app": "Vyq9qf5c5PfND8xBGD9Nbdhn",
+                    "project": "VTMQ6drXQ9qtTdydCKsxWQmb"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Heartbrand",
+            "name": "Heartbrand Redirections",
+            "delegates": [
+                {
+                    "app": "VTqQMVccp3FkVDAmkmcH8Nnn",
+                    "project": "VTMQ6drXQ9qtTdydCKsxWQmb"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Glow \\& Lovely",
+            "name": "Glow & Lovely",
+            "delegates": [
+                {
+                    "app": "VynFgf9xV8EEmXcC6CPrcQcg",
+                    "project": "VynkDC5EBshYmgyfqCPrysEm"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Shea Moisture",
+            "name": "Shea Moisture (Sundial) Redirects",
+            "delegates": [
+                {
+                    "app": "Vy4xNfUesyKc3fcfaFEwsfMe",
+                    "project": "VyHx7fSWm9HsXBTxFhxAUPnk"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Sundial",
+            "name": "Sundial Redirects",
+            "delegates": [
+                {
+                    "app": "VTnbrCcRPc5ymCcfw2haPfhr",
+                    "project": "VyHx7fSWm9HsXBTxFhxAUPnk"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Breyers",
+            "name": "Breyers Redirects",
+            "delegates": [
+                {
+                    "app": "VTFMpCad3sEVGmWNtyYGhhDc",
+                    "project": "VckMpBQxtfwdQ2AbUCmKnngd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Find Your Happy Place",
+            "name": "Find Your Happy Place Redirects",
+            "delegates": [
+                {
+                    "app": "VcFXBGKeEkcAHqbtnsGbchXt",
+                    "project": "VTFDBGncGsYBmmCN9yfPKqgf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Selecta",
+            "name": "Selecta Redirects (Walls)",
+            "delegates": [
+                {
+                    "app": "VTFga5ax2D8gTVcgP5yaTBcp",
+                    "project": "VwmxheTRfbEDwSxkywNaFd7s"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Maizena",
+            "name": "Maizena Redirects",
+            "delegates": [
+                {
+                    "app": "VTFB5SmqMBnTemgQdwPUmrPa",
+                    "project": "Vyke5SDr9faUQkdbdWDVrdgm"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Zendium",
+            "name": "Zendium Redirections",
+            "delegates": [
+                {
+                    "app": "VckUEShaGPhB3GWr9TdtPa4t",
+                    "project": "VcFUggqyG8he33CN9cUQqaFa"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Knorr&product.tags=multicountry",
+            "name": "Knorr Multicountry",
+            "delegates": [
+                {
+                    "app": "VTEHVA5CF2eNpwDWttyE5aCb",
+                    "project": "Vwss4NGswmRCwFYaxTQN5sNf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Aromat",
+            "name": "Aromat (Recipedia) Redirects",
+            "delegates": [
+                {
+                    "app": "VwDN4g3WsgBhETxgBn5sTChr",
+                    "project": "VRgNHgeCDQqwBFBRPcP5yPmq"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Calve",
+            "name": "Calve Redirections",
+            "delegates": [
+                {
+                    "app": "VchWeYwe2P5AtdcVd4KsyQnn",
+                    "project": "VTECeD8WhrTxwxWsNyyHFhQc"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Talenti",
+            "name": "Talenti Redirections",
+            "delegates": [
+                {
+                    "app": "VyhWBWb3pqr2QGhy9Q3Vee5t",
+                    "project": "VchfBB9tKq72QGEct9meBAra"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Marmite",
+            "name": "Marmite Redirects",
+            "delegates": [
+                {
+                    "app": "VcDhpBEaCpyPFWbTHaTb4mBk",
+                    "project": "VcXhpeSH9kGchxAcsQWcpbNd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Dove - HAIR",
+            "name": "Dove HAIR Redirects",
+            "delegates": [
+                {
+                    "app": "VaT9KgaHwVeyBsBC4Bpmtkwt",
+                    "project": "VwShN2NfWdBKhEgGcGhSKCer"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Love Beauty and Planet- HAIR",
+            "name": "Love Beauty & Planet HAIR Redirects",
+            "delegates": [
+                {
+                    "app": "UQEb3PmAnGAYMDg2PK7SEmhg",
+                    "project": "UQhbmskUHGdYMgDk8KrbhGha"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Pond's",
+            "name": "Pond's Redirects",
+            "delegates": [
+                {
+                    "app": "VTDxfnybgNPd7VfQggt5Ps4n",
+                    "project": "VcDbfnaK5n4gX8gH3P2fwqye"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Sun",
+            "name": "Sun Redirects",
+            "delegates": [
+                {
+                    "app": "VTgxAUKwcyMCpYDN7SrRBpwf",
+                    "project": "VyXSdAUG6SwK5RhsTdfKes4e"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Love \\& Care",
+            "name": "Love & Care Redirections",
+            "delegates": [
+                {
+                    "app": "VTCdQm7PK4nXDPDnGPRs5pFg",
+                    "project": "Vcfdt3MXAkkeydfQb2nc9cbc"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Acne Squad",
+            "name": "Acne Squad Redirects",
+            "delegates": [
+                {
+                    "app": "VcV9wBCYgrPUrefQgXBr2Ghg",
+                    "project": "VyBQRVe4dkkeTdWQSkhUgd8q"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Simple",
+            "name": "Simple Redirects",
+            "delegates": [
+                {
+                    "app": "VyesNXMkMbw5pwYsyApEWQps",
+                    "project": "VyBsNDmqp4HDD8D4Gs7q8eEt"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Savora",
+            "name": "Savora Redirects",
+            "delegates": [
+                {
+                    "app": "VcdKVsgdtTnnscdsK8Nsrswr",
+                    "project": "VcUKesBttTnnscAspP7P7swd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Cif&product.tags=multicountry",
+            "name": "Cif Multicountry",
+            "delegates": [
+                {
+                    "app": "VTdefM6TE4KfNGwFUdKpMcxq",
+                    "project": "UMdE2naEegsRQKRaw2wfac6b"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Dolcevita",
+            "name": "Dolcevita Redirects",
+            "delegates": [
+                {
+                    "app": "Vyym6k9D63BxGtUxMGHHKCfq",
+                    "project": "VcTGqFrrkk88nYwD6hC8wsHr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Clear Men",
+            "name": "Clear Men Redirects",
+            "delegates": [
+                {
+                    "app": "VcyGqDhQsCxxyawPGn4Awswb",
+                    "project": "VTyGMgExyp3sMpVWaA5ebrXq"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Nexxus",
+            "name": "Nexxus Redirects",
+            "delegates": [
+                {
+                    "app": "VTyk6PAw6GBbGQdbq3nF3rfn",
+                    "project": "Vyck67tqcpGsqpBWwd5cadTe"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Surf Excel",
+            "name": "Surf Excel",
+            "delegates": [
+                {
+                    "app": "VTcw2n5d8Wbxywasm4FdRabp",
+                    "project": "VyTRkH4ysCSxcRw8GHFUaabh"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Radiant",
+            "name": "Radiant Redirects",
+            "delegates": [
+                {
+                    "app": "VTbe4EG6Nt7arKAkTPqdnmKe",
+                    "project": "VcxBnhFfPH4CQ4eHVAYgUdhd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Viennetta",
+            "name": "Viennetta Redirects",
+            "delegates": [
+                {
+                    "app": "VcSUPmgKsHHWQHBnBADdhcqd",
+                    "project": "VcbUs3CH37atXHUBNwaYpfKr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Indulekha",
+            "name": "Indulekha Redirection Rules",
+            "delegates": [
+                {
+                    "app": "VTwHfUxfrqsrwXb2cVkgdEmd",
+                    "project": "VywHfAwdgBxUD9gHD6qHkgQm"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Snuggle&product.tags=multicountry",
+            "name": "Snuggle Multicountry",
+            "delegates": [
+                {
+                    "app": "VcywG2A7dqYE3qwsb9HKNpMe",
+                    "project": "VTwXahRKgebdgtXnDqCnedXs"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Cajoline",
+            "name": "Cajoline Redirections (Snuggle)",
+            "delegates": [
+                {
+                    "app": "VyRXfxSfcNtnAKE7tq4KQbkn",
+                    "project": "VTwXahRKgebdgtXnDqCnedXs"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Snuggle",
+            "name": "Snuggle Redirections",
+            "delegates": [
+                {
+                    "app": "VywgRYdkyN9HU5EN9MnKeFks",
+                    "project": "VTwXahRKgebdgtXnDqCnedXs"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Rexona&product.tags=multicountry",
+            "name": "Rexona Multicountry",
+            "delegates": [
+                {
+                    "app": "VxtYqpgc3x4VBWDpgaWs4qGp",
+                    "project": "VwbwykNUrEDdAGR9GHUdMe3b"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Signal&product.tags=multicountry",
+            "name": "Signal (Smile) Multicountry",
+            "delegates": [
+                {
+                    "app": "VbtYKgxTbbgpfaT6kBgYHCsc",
+                    "project": "VSceKf5wcAWFM8Ce4deQ7kNr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Horlicks",
+            "name": "Horlicks Redirects",
+            "delegates": [
+                {
+                    "app": "VxQdKrW5AbGEFhddrgkaQghs",
+                    "project": "Vx9dKNeQECRcsRCQ5mEpykEp"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=TRESemme&product.tags=multicountry",
+            "name": "TRESemme Multicountry",
+            "delegates": [
+                {
+                    "app": "VcUAXFT9qGeb39dxq3q7MbEh",
+                    "project": "VaVcSVsHKeF6aETEUyAr9Ahm"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Smartpick",
+            "name": "Smartpick Redirects",
+            "delegates": [
+                {
+                    "app": "Vx7MUpCGUbGhkhAUrg4hBe8t",
+                    "project": "Vbr6dXKr8EFdDRccgcqMUPke"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Amora",
+            "name": "Amora Redirects",
+            "delegates": [
+                {
+                    "app": "VxMwDsqWQxpcGHhpsWAFAmdr",
+                    "project": "VbqRgspGCHGNnGxCsGrb8syf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.tags=upro",
+            "name": "Unilever Professional Redirects (multi-brand)",
+            "delegates": [
+                {
+                    "app": "VbpKSeXt9bKcGHYpPCTQWhWk",
+                    "project": "VSKpbBehCQ4HYtWq27DkFmQd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Kissan",
+            "name": "Kissan Redirects",
+            "delegates": [
+                {
+                    "app": "Vbp2EkwdU6tsdkwPkFS4wybg",
+                    "project": "Vbp2EEK2DVeeYfDyyYamkgCr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Molto",
+            "name": "Molto Redirections",
+            "delegates": [
+                {
+                    "app": "VSKAcPCt9xnNYhBWGeRYEnkb",
+                    "project": "VwmWwWEDY9cDpUbKKXwMGrSs"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Vim",
+            "name": "Vim Redirections",
+            "delegates": [
+                {
+                    "app": "VbHrQXqmtraK4twbhPxdKPcg",
+                    "project": "Vxn7QDT6QbH7EYBWGBE9qq6a"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Maille",
+            "name": "Maille Redirections",
+            "delegates": [
+                {
+                    "app": "VbHNtytaQw9awfEa2n5tGEbf",
+                    "project": "Vx2ArK6rTfPWfGwwTeAw4prm"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Aim",
+            "name": "Aim (Smile) Redirections",
+            "delegates": [
+                {
+                    "app": "VbHfwx4aKSDrhKTHC6FfdbFe",
+                    "project": "VSceKf5wcAWFM8Ce4deQ7kNr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Algida",
+            "name": "Algida Redirects",
+            "delegates": [
+                {
+                    "app": "VRGShekfaXNAFVwqT8rSaCte",
+                    "project": "VwmxheTRfbEDwSxkywNaFd7s"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Cream Silk",
+            "name": "Cream Silk Redirects",
+            "delegates": [
+                {
+                    "app": "Vb2K7BtkUf2ra5g6qBgENcUn",
+                    "project": "VbFKNVpb9eV7CGhNtmt7nrPb"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Vitakeratin",
+            "name": "Vitakeratin Redirects",
+            "delegates": [
+                {
+                    "app": "VxkKrBhNTk7d9KhdWXCNWMhg",
+                    "project": "VbF5NecyTC8Wf3waTee5ah8q"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Pepsodent",
+            "name": "Pepsodent (Smile) Redirects",
+            "delegates": [
+                {
+                    "app": "VSyepXxCDRr3rxDbr8Ha7kfh",
+                    "project": "VSceKf5wcAWFM8Ce4deQ7kNr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Ben \\& Jerry's",
+            "name": "Ben & Jerry's Redirections",
+            "delegates": [
+                {
+                    "app": "VxX8NpKHtAWtacAwR3Eb6q9n",
+                    "project": "Vxgs7KkF9dfQwyAawGESMqnt"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Colman's",
+            "name": "Colman's Redirections",
+            "delegates": [
+                {
+                    "app": "VbfrpPhBP5xqVWcYG7qsbDft",
+                    "project": "VxWNpsVf8pbqefyYmrqsbgxs"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Suave",
+            "name": "Suave Redirections",
+            "delegates": [
+                {
+                    "app": "VbfNmG3KVCntGwgdkqXeYn7a",
+                    "project": "VxC7GGfe8KxqVCThGN6rNdmf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Wipol",
+            "name": "Wipol Redirects",
+            "delegates": [
+                {
+                    "app": "VbCASmpFnCSrsHeM78xENggf",
+                    "project": "VxfdxmEHspbqVfTE3NgtMn5n"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Vixal",
+            "name": "Vixal Redirections",
+            "delegates": [
+                {
+                    "app": "VSCcrgpMpsVdDCBXdrAPMQqa",
+                    "project": "VbfyrgXnEFkhM5Ee4wSC7sgh"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Nevex",
+            "name": "Nevex (Persil) Redirections",
+            "delegates": [
+                {
+                    "app": "VSFpnc8YACkNR5Dq6eXhCsRr",
+                    "project": "U8EVQChCDBpfxUxMCf9QRqWe"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Ala",
+            "name": "Ala Redirections",
+            "delegates": [
+                {
+                    "app": "VSA5bpax6K7dWKEBxwURAtRa",
+                    "project": "VbApb4HUaGcKKxRbtxHwNeqa"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Cleanipedia",
+            "name": "Cleanipedia Redirects",
+            "delegates": [
+                {
+                    "app": "Vbck8Fb2g6GgF9ApVHB9spWk",
+                    "project": "VxTkPENxyAfFqPWBndCgHgHh"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=LifebuoyHC",
+            "name": "Lifebuoy (HC) Redirections",
+            "delegates": [
+                {
+                    "app": "VbdFmehGMc2G46wDaRF7tkSh",
+                    "project": "VbdFGVCxcaeNNqRAhKkGXs6a"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Cremissimo&product.tags=multicountry",
+            "name": "Cremissimo Multi Country",
+            "delegates": [
+                {
+                    "app": "VSyhgmtpDRrGrSDxNPHfWHmm",
+                    "project": "VxyYDmmTwgRp2dDKdpPEQdWk"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Cremissimo",
+            "name": "Cremissimo Redirects",
+            "delegates": [
+                {
+                    "app": "VbcEXGPcDarmrSDxr8nffnDm",
+                    "project": "VxyYDmmTwgRp2dDKdpPEQdWk"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Mentadent&product.tags=multicountry",
+            "name": "Mentadent (Smile) Multicountry",
+            "delegates": [
+                {
+                    "app": "VSk4fK9WBE2adgakbPSCtkpq",
+                    "project": "VSceKf5wcAWFM8Ce4deQ7kNr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Smile&product.tags=multicountry",
+            "name": "Smile Multicountry",
+            "delegates": [
+                {
+                    "app": "VSk4fK9WBE2adgakbPSCtkpq",
+                    "project": "VSceKf5wcAWFM8Ce4deQ7kNr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Smile",
+            "name": "Smile Redirection",
+            "delegates": [
+                {
+                    "app": "VSyepXxCDRr3rxDbr8Ha7kfh",
+                    "project": "VSceKf5wcAWFM8Ce4deQ7kNr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Vaseline&product.tags=multicountry",
+            "name": "Vaseline Multicountry",
+            "delegates": [
+                {
+                    "app": "VSsGXw2cW9BBt9yCErtNgerb",
+                    "project": "VxSDETkmydCkqsfe4UMRKr6q"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Vaseline",
+            "name": "Vaseline Redirections",
+            "delegates": [
+                {
+                    "app": "VxbXEAxE6ckmnqagwRMxYeBb",
+                    "project": "VxSDETkmydCkqsfe4UMRKr6q"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Lipton&product.tags=multicountry",
+            "name": "Lipton MultiCountry",
+            "delegates": [
+                {
+                    "app": "VbaE6P9BYrWs62ffps8kEerb",
+                    "project": "VwybysEn7F9AxqEnWERncqEd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Coral",
+            "name": "Coral Redirections",
+            "delegates": [
+                {
+                    "app": "Vatn7KNUwGaWakERbcagqtWa",
+                    "project": "Vw9HrKXHe6nbCAbYxE6n6d6p"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=AHC",
+            "name": "AHC Redirections",
+            "delegates": [
+                {
+                    "app": "VRQSkqDE4BeBSgfTC8FcGrme",
+                    "project": "Va9SkqxEBegKrPRk7CdMaBan"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Super Pell",
+            "name": "Super Pell",
+            "delegates": [
+                {
+                    "app": "VasPMrh9wk5sfsVpBk4P2q3b",
+                    "project": "VwssMrdCxfshCUBtqYB3xbQc"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Knorr",
+            "name": "Knorr Redirections",
+            "delegates": [
+                {
+                    "app": "Vass4sEfhNWPMFff5PPSGtcc",
+                    "project": "Vwss4NGswmRCwFYaxTQN5sNf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Cif",
+            "name": "Cif Redirections",
+            "delegates": [
+                {
+                    "app": "UM8cKq5D63shYMawwG4yffcs",
+                    "project": "UMdE2naEegsRQKRaw2wfac6b"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Unilever ID",
+            "name": "Unilever ID Redirections",
+            "delegates": [
+                {
+                    "app": "VwPBSgRgBqHSCUxhxYpRDbqq",
+                    "project": "VwPeSC5HE7fsMFCfKP7Tdknt"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Parogencyl",
+            "name": "Parogencyl Redirections Rules",
+            "delegates": [
+                {
+                    "app": "VwPTPy6cSCPYCABQqhdhpkgd",
+                    "project": "VwNtcf3axfshfAVtMhdyTgXk"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Sunlight",
+            "name": "Sunlight Redirections",
+            "delegates": [
+                {
+                    "app": "VwNRhM23A3Ad6wS2HrtHth5p",
+                    "project": "VRrwhMVUc4NUhCBCSyNNerba"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Dove Men + Care",
+            "name": "Dove Men + Care Redirection Rules",
+            "delegates": [
+                {
+                    "app": "Vw64xsCnSHXrfECYbnxyVcec",
+                    "project": "VwqHbsBqSTHAmUdtrWgc8g5c"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Seventh Generation",
+            "name": "Seventh Generation",
+            "delegates": [
+                {
+                    "app": "Va6dhFypSxQQ6byEMDSs6pxb",
+                    "project": "VwqdhhqMbHgNfECYbHb4Chkn"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Deja",
+            "name": "Deja Redirection Rules",
+            "delegates": [
+                {
+                    "app": "Va57sEcaEHppnGb7w9rNCBtb",
+                    "project": "Va5N8gMTpRME3YyfDxENtskd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=P/S",
+            "name": "P/S Redirection Rules",
+            "delegates": [
+                {
+                    "app": "VaKF9xUFxng7ChfhSHKgYpcq",
+                    "project": "VRK2QRNBhnKKnmxNwQn4qcMn"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Lynx",
+            "name": "Lynx Redirections",
+            "delegates": [
+                {
+                    "app": "Vw5hEPUDxcndmdA9rfRShFcn",
+                    "project": "VaphYrnwhHKK43xrR9HdWcGk"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Carte D'Or",
+            "name": "Carte D'Or Redirects",
+            "delegates": [
+                {
+                    "app": "VaHdsms5gtqwB2eaPyhh4rNg",
+                    "project": "VaHAsmHERgNd2VaqcsnnbBdf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Hellmanns",
+            "name": "Hellmanns Redirections",
+            "delegates": [
+                {
+                    "app": "VaGPAhHWDt6RekVasywAqeYe",
+                    "project": "VaGsAhU4EQyg5UxppDfPabxc"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=The Vegetarian Butcher",
+            "name": "The Vegetarian Butcher Redirection Rules",
+            "delegates": [
+                {
+                    "app": "VaGGfy24EF2nPMY4ygAbcpHg",
+                    "project": "VwGGfyaNwgNdFBRMysRSxcAk"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Rinso",
+            "name": "Rinso Redirection Rules",
+            "delegates": [
+                {
+                    "app": "Va3fRDyTfbYDwxSkcwPfhhVd",
+                    "project": "VwmWwWEDY9cDpUbKKXwMGrSs"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Andrelon|product.brand=Andrélon",
+            "name": "Andrélon Redirections",
+            "delegates": [
+                {
+                    "app": "VamTCN3f5h9gPNTk2HSKNaWg",
+                    "project": "VRmcWrdFDtqwekVwsyHa3Eqb"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Walls",
+            "name": "Walls Redirections",
+            "delegates": [
+                {
+                    "app": "VRGShekfaXNAFVwqT8rSaCte",
+                    "project": "VwmxheTRfbEDwSxkywNaFd7s"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Knorr Professional&product.tags=multicountry",
+            "name": "Knorr Professional Multi Country",
+            "delegates": [
+                {
+                    "app": "VwmbWh3kX6rnrnCVF7tDYPcb",
+                    "project": "U9PdEaKwEsRBBcdD9gS9rstr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Robijn",
+            "name": "Robijn Redirection Rules",
+            "delegates": [
+                {
+                    "app": "VaGxdwSFgtMwVFew8c36fnDk",
+                    "project": "VwmbT9qcEQTgKAbK5gQfsrec"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Domestos&product.tags=multicountry",
+            "name": "Domestos Multi Country",
+            "delegates": [
+                {
+                    "app": "VwknqKP6hFFnPqh4yg8ecAfk",
+                    "project": "VRDr7HrQagrAkBa6cPxPcged"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Lux",
+            "name": "Lux Redirections",
+            "delegates": [
+                {
+                    "app": "VwkhsBS5EFFn8qEHTDqGDp6h",
+                    "project": "VakhPUr3CbYXwSxkTRmmgrNf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Zwitsal",
+            "name": "Zwitsal Redirector",
+            "delegates": [
+                {
+                    "app": "VakYNtUMwgrUFew6yP3nAdbn",
+                    "project": "VRkE78N2wXNdkVa6yPm4AcHe"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Axe",
+            "name": "Axe Redirections",
+            "delegates": [
+                {
+                    "app": "VwFbEnARsDBhYySXenx7dGbe",
+                    "project": "VRkShGpaCSEgwbbFyaYMCgSd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Signal",
+            "name": "Signal Redirection Rules (Smile)",
+            "delegates": [
+                {
+                    "app": "VSPCUPCbmSkbeyf8yRa7PfBc",
+                    "project": "VSceKf5wcAWFM8Ce4deQ7kNr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Magnum",
+            "name": "Magnum Redirections",
+            "delegates": [
+                {
+                    "app": "VwheVeAWDt6aBkBaPcRPem8a",
+                    "project": "VREBVdP7EtTDpAx5pgXhEsGs"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Conimex",
+            "name": "Conimex Redirections",
+            "delegates": [
+                {
+                    "app": "VwEVb8AmaDNUkBwMTseRGyqm",
+                    "project": "VahVbrnbWxEgwxSkcaAQkrRa"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Ola",
+            "name": "Ola Redirections",
+            "delegates": [
+                {
+                    "app": "VwheSkMWfbEgaSbkTRdQht5c",
+                    "project": "VahexFVxXMNH7HWB2rXDTang"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Sunsilk&product.tags=multicountry",
+            "name": "Sunsilk Multicountry",
+            "delegates": [
+                {
+                    "app": "Vb9dMTQMUSGhkYAA7g2RQtVh",
+                    "project": "VaBcyePNYEet8Hc3PdFaSaer"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Sunsilk",
+            "name": "Sunsilk Redirector",
+            "delegates": [
+                {
+                    "app": "VwBTcH4BEEVt84yGPUkacc5n",
+                    "project": "VaBcyePNYEet8Hc3PdFaSaer"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Domestos",
+            "name": "Domestos Redirection",
+            "delegates": [
+                {
+                    "app": "VRD7rHQHpYtDsNy2F4DWqkVr",
+                    "project": "VRDr7HrQagrAkBa6cPxPcged"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Recepedia",
+            "name": "Recepedia Redirection",
+            "delegates": [
+                {
+                    "app": "VwDN4g3WsgBhETxgBn5sTChr",
+                    "project": "VRgNHgeCDQqwBFBRPcP5yPmq"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Clear",
+            "name": "Clear Redirector",
+            "delegates": [
+                {
+                    "app": "VwWAYk6NghEyMUfUa4n6xsxn",
+                    "project": "VwWdhhM9hhB9snTG8dqfxQgp"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Closeup",
+            "name": "Closeup Redirection Rules",
+            "delegates": [
+                {
+                    "app": "VReTbqGAWxrGeAaScqVcdKsc",
+                    "project": "VwBcb4KGYEAcb3dNPQY5AaSm"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=TRESemme",
+            "name": "TRESemme Redirection Rules",
+            "delegates": [
+                {
+                    "app": "VaVyxhEhXYEyqACARnXDQkqq",
+                    "project": "VaVcSVsHKeF6aETEUyAr9Ahm"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=TAZO",
+            "name": "TAZO Redirections",
+            "delegates": [
+                {
+                    "app": "VacQqytmGaM9ADda3ghsDnbt",
+                    "project": "VwS5sdNanbsP4cd2qhcDnngp"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Rexona",
+            "name": "Rexona Redirections",
+            "delegates": [
+                {
+                    "app": "VRcQK7qwRBBTePBCnVpnRmRk",
+                    "project": "VwbwykNUrEDdAGR9GHUdMe3b"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Dove",
+            "name": "Dove Redirections",
+            "delegates": [
+                {
+                    "app": "VaT9KgaHwVeyBsBC4Bpmtkwt",
+                    "project": "VwShN2NfWdBKhEgGcGhSKCer"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Comfort&product.tags=multicountry",
+            "name": "Comfort MultiCountry",
+            "delegates": [
+                {
+                    "app": "Vx4DwgpgngfgahhN3VqPfr6f",
+                    "project": "VaxKrt94m8DyqNAnGtUAAbCa"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Comfort",
+            "name": "Comfort Redirections",
+            "delegates": [
+                {
+                    "app": "Vwc9Hrqse6gysRcK9m3RPaUa",
+                    "project": "VaxKrt94m8DyqNAnGtUAAbCa"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Degree",
+            "name": "Degree Redirections",
+            "delegates": [
+                {
+                    "app": "VRc9KASmaBVTB8Bf4VKGQcng",
+                    "project": "UtrYncT6gHPe7wE6wfbE9rDf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Lipton",
+            "name": "Lipton Redirection",
+            "delegates": [
+                {
+                    "app": "Vayt4hhyyeEhXFUbfcqxfeeg",
+                    "project": "VwybysEn7F9AxqEnWERncqEd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Knorr Professional",
+            "name": "Knorr Professional Redirections",
+            "delegates": [
+                {
+                    "app": "U9sdEVpaUrEVQBACtmeQpyps",
+                    "project": "U9PdEaKwEsRBBcdD9gS9rstr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Seda",
+            "name": "Seda Redirections",
+            "delegates": [
+                {
+                    "app": "VwTbhy7PN2QAxqYnWha4Mgxe",
+                    "project": "VRyShTaxGsDyqrUHG9eK8faf"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Sure",
+            "name": "Sure Redirection",
+            "delegates": [
+                {
+                    "app": "VwwffPs5M8B9PqwEYtPCpbAs",
+                    "project": "VRwCCnFXqsBQ8MaYEQPCHdsk"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=The Laundress",
+            "name": "The Laundress Redirection",
+            "delegates": [
+                {
+                    "app": "VwRCf4xAaHDDDmdUkDKyyHft",
+                    "project": "VaRCWEqA7qKrknV8Aq2fSCbn"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=TIGI",
+            "name": "TIGI Redirection Rules",
+            "delegates": [
+                {
+                    "app": "VawbG3GMCQdDghfnS8wbhnUt",
+                    "project": "VaRxk6f6xNMB9eRb9WbwDFrr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Bango",
+            "name": "Bango Redirections",
+            "delegates": [
+                {
+                    "app": "UtteBKyRGKVRkVySrGBRAwgh",
+                    "project": "UQtBV3yTG5eRkBySNmVRct7m"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Lifebuoy|product.brand=LifebuoyBPC",
+            "name": "Lifebuoy BPC Redirection",
+            "delegates": [
+                {
+                    "app": "UQNqrXDQD4se7whMRfTApnXc",
+                    "project": "UtrM4xQfhPaVBcUgQDwcfqXr"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Surf",
+            "name": "Surf Redirections",
+            "delegates": [
+                {
+                    "app": "UtrnY6Bb6ReYemfQncCfWCgn",
+                    "project": "U9N4Ep2qSKTQ54dGDymPWQtd"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=OMO",
+            "name": "OMO Redirections",
+            "delegates": [
+                {
+                    "app": "Utr4dmwPUsK6qeXnVC35DdNs",
+                    "project": "UQrHAhHFUsKqqegHBCmpDbTh"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Breeze",
+            "name": "Breeze Redirections",
+            "delegates": [
+                {
+                    "app": "UQrhGXFBxKctKHA3Dymgmtfc",
+                    "project": "UQrYF8P3bKytKHA3DTmDhpdh"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.tags=SustainabilityPilot",
+            "name": "Sustainability Pilot Redirection",
+            "delegates": [
+                {
+                    "app": "Ut4BwFYxT4NeNGwAkh7CXs4e",
+                    "project": "U9newgqfc4Ne7GaA2ErWgqYh"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.brand=Love Beauty and Planet",
+            "name": "Love Beauty Planet Redirection Hello Kat :-)",
+            "delegates": [
+                {
+                    "app": "UQEb3PmAnGAYMDg2PK7SEmhg",
+                    "project": "UQhbmskUHGdYMgDk8KrbhGha"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.tags=persil|product.brand=Persil",
+            "name": "Persil Redirection",
+            "delegates": [
+                {
+                    "app": "UPEBQtNaxkMNpxBbkQ9UekTn",
+                    "project": "U8EVQChCDBpfxUxMCf9QRqWe"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.tags=leverdirect|product.brand=Unilever",
+            "name": "Lever Direct Redirection",
+            "delegates": [
+                {
+                    "app": "UtDqXQE2CE2prRAdYSsfmdWt",
+                    "project": "UtgMgPMyMA6GnHVMC4E5Psyb"
+                }
+            ],
+            "constants": {}
+        },
+        {
+            "match": "product.tags=skip|product.brand=Skip",
+            "name": "Skip default",
+            "delegates": [
+                {
+                    "app": "UtkedP2AdFAdckSNwaTbHbXk",
+                    "project": "U8EVQChCDBpfxUxMCf9QRqWe"
+                }
+            ],
+            "constants": {}
+        }
+    ]
+}

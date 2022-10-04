@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo "[ $(date +%T) ] Beginning build..."
+rm -rf dist
+npx tsc
+echo "[ $(date +%T) ] Completed build..."
