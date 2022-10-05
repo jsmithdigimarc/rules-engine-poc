@@ -1,32 +1,17 @@
-import { Engine } from "json-rules-engine";
-import * as rules from "./data/rules.json";
+import * as express from "express";
+import { json } from "body-parser";
+import { routes } from "./api/routes";
 
-// product.brand=Heartbrand&product.tags=multicountry
+const router = express();
+const jsonParser = json();
+router.use(jsonParser);
 
-const engine = new Engine([
-  {
-    conditions: {
-      all: [
-        {
-          fact: "input",
-          operator: "equal",
-          value: "Heartbrand",
-          path: "$.product.brand",
-        },
-      ],
-    },
-    event: {
-      type: "match",
-    },
-  },
-]);
+const app = {
+  router,
+};
 
-engine
-  .run({
-    input: {
-      product: {
-        brand: "Heartbrand",
-      },
-    },
-  })
-  .then(({ events }) => console.log(events));
+routes(app);
+
+app.router.listen(process.env.PORT, () => {
+  console.log(`Listening for requests on ${process.env.PORT}`);
+});
