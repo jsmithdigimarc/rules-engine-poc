@@ -1,4 +1,4 @@
-import * as express from "express";
+import express from "express";
 import * as BodyParser from "body-parser";
 import { App } from "./types";
 import { RulesHandler } from "./handlers";
