@@ -22,5 +22,5 @@ resource "google_cloud_run_service_iam_member" "rules_engine_all_users" {
   service  = google_cloud_run_service.rules_engine_service.name
   location = var.region
   role     = "roles/run.invoker"
-  member   = "allUsers"
+  member   = "allAuthenticatedUsers"
 }
