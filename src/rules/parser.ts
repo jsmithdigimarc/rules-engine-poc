@@ -50,7 +50,7 @@ export function jsonRulesEngineConditionFromRule(
           `invalid expression, attempting to combine operators AND and OR: ${match}`
         );
       }
-      topLevelOperator = topLevelOperator[0];
+      topLevelOperator = topLevelOperators[0];
     }
   }
 
