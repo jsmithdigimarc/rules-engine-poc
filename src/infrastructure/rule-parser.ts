@@ -1,5 +1,23 @@
 import { TopLevelCondition } from "json-rules-engine";
-import { Operator } from "../types";
+
+/**
+ * Operator represents an operator that can be used to compare the left and right
+ * side of an expression. Operators are supplied to json-rules-engine as part
+ * of a condition definition.
+ */
+enum Operator {
+  Equal = "equal",
+  Like = "like",
+  NotEqual = "notEqual",
+  LessThan = "lessThan",
+  LessThanInclusive = "lessThanInclusive",
+  GreaterThan = "greaterThan",
+  GreaterThanInclusive = "greaterThanInclusive",
+  In = "in",
+  NotIn = "notIn",
+  Contains = "contains",
+  DoesNotContain = "doesNotContain",
+}
 
 /**
  * Represents the FACT_NAME that will be attached to rules supplied to the Rules
