@@ -1,4 +1,4 @@
-import { TopLevelCondition } from "json-rules-engine";
+import type { TopLevelCondition } from "json-rules-engine";
 
 /**
  * Operator represents an operator that can be used to compare the left and right

@@ -1,9 +1,9 @@
 import type { Express } from "express";
-import { RulesHandler } from "./handlers/rules-handler";
+import type { RulesHandler } from "./handlers/rules-handler";
 
 export type App = {
   router: Express;
-  rulesHandler: RulesHandler
+  rulesHandler: RulesHandler;
 };
 
 export type Rule = {

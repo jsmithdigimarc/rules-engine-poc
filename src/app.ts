@@ -1,6 +1,6 @@
 import express from "express";
 import * as BodyParser from "body-parser";
-import { App } from "./types";
+import type { App } from "./types";
 import { RulesHandler } from "./handlers";
 import { RulesService } from "./services";
 import { routes } from "./routes";

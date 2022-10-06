@@ -1,6 +1,6 @@
 import { Engine } from "json-rules-engine";
+import type { Rule } from "../types";
 import { RuleParser } from "../infrastructure/rule-parser";
-import { Rule } from "../types";
 
 const EVENT_TYPE_MATCH = "match";
 
