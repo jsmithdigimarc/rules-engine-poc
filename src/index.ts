@@ -1,17 +1,13 @@
-import * as express from "express";
-import { json } from "body-parser";
-import { routes } from "./api/routes";
+import * as http from "http";
+import { App } from "./app";
 
-const router = express();
-const jsonParser = json();
-router.use(jsonParser);
+(() => {
+  const port = process.env.PORT || 8080;
 
-const app = {
-  router,
-};
+  const app = App();
+  const httpServer = http.createServer(app.router);
 
-routes(app);
-
-app.router.listen(process.env.PORT, () => {
-  console.log(`Listening for requests on ${process.env.PORT}`);
-});
+  httpServer.listen(port, () => {
+    console.log(`Server listening for connections on port ${port}`);
+  });
+})();
