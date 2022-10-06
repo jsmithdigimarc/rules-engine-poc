@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "./scripts/build",
+    "build": "node ./scripts/build.js",
     "dev": "npx ts-node ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "antlr4ts": "npx antlr4ts -visitor ./src/parser/Filter.g4"
@@ -26,7 +26,9 @@
     "antlr4ts": "^0.5.0-alpha.4",
     "antlr4ts-cli": "^0.5.0-alpha.4",
     "body-parser": "^1.20.0",
+    "esbuild": "^0.15.10",
     "express": "^4.18.1",
+    "glob": "^8.0.3",
     "json-rules-engine": "^6.1.2",
     "prettier": "^2.7.1",
     "ts-node": "^10.9.1",
